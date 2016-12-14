@@ -1,2 +1,2 @@
-# powershell_microsoft_windows_get-ecsvmwarevirtualdisktowindowslogicaldiskmapping
-allows you to map a vmware vitual disk to a windows logical disk
+This repo has moved to the link below:
+https://github.com/ericcsinger/Powershell/blob/master/Microsoft/Windows/get-ecsvmwarevirtualdisktowindowslogicaldiskmapping/Get-ECSVMwareVirtualDiskToWindowsLogicalDiskMapping.ps1
